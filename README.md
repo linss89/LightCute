@@ -6,13 +6,12 @@
 
 插件所有攻略内容源于【光萌攻略组】
 
-![LightCute 4.0 预览图](imglightcute40new.png)
-
+![LightCute 4.0 预览图](img/lightcute40new.png)
 
 > 光遇攻略插件『LightCute 4.0』破茧新生
 > > 重大更新，全新UI，支持QQ频道！！
 
-![极简风格](imglightcute50.png)
+![输入图片说明](img/lightcute50new.png)
 
 > 光遇攻略插件『LightCute 5.0』攻略补全计划
 >> 未来UI将会恢复到4.0版本
@@ -48,14 +47,19 @@
 
 ## 截图展示
 
-![输入图片说明](imgLightCute_4.0.0_new_group-control.png)
+![控制台预览图](img/LightCute_4.0.0_new_group-control.png)
 
 ---
 
 ## 演示动图
 
-![LightCute演示动图](https://img.7yan.top/images/LightCute_Operation-demo.gif)
+![LightCute演示动图](https://www.helloimg.com/images/2023/02/06/oZYDKc.gif)
 
+---
+
+## 常见问题
+
+> 适用于LightCute 4.0 版本
 
 > Q：插件收费吗？
 > > A：插件目前是免费的，下载即可正常使用插件。（以后也会保证能让插件的免费额度能够满足个人的需求使用，我们一直致力于为大众提供免费攻略）
