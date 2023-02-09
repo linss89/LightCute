@@ -10,16 +10,15 @@
 
 # 插件展示图
 
-![光遇攻略插件『LightCute 4.0』破茧新生重大更新，全新UI，现已支持频道！！](https://upload-images.jianshu.io/upload_images/28850466-3b48612121fa75a4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![光遇攻略插件『LightCute 4.0』破茧新生重大更新，全新UI，现已支持频道！！](img/lightcute40new.png)
 
-![光遇攻略插件『LightCute 5.0』攻略补全计划、发布独家小精灵问答功能！！](https://upload-images.jianshu.io/upload_images/28850466-ab14486845c3813a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![光遇攻略插件『LightCute 5.0』攻略补全计划、发布独家小精灵问答功能！！](img/lightcute50new.png)
 
 ## 一些碎碎念
 
 此【小精灵问答】非彼平常的小精灵问答，其实不然，包含了基础的【蜡烛查询】、【今日任务】、【天气预报】、【详细天气预报】，以及进阶的【参与活动】、【蜡烛统计】、【排队状态】、【游戏公告】、【白蜡数据】等功能（以后还会增加），以上小精灵菜单将进行折叠处理，有查阅需求的可自己点开，不会造成突然刷屏。
 
-![【小精灵问答】菜单折叠卡片](https://upload-images.jianshu.io/upload_images/28850466-38fa020a5ebbe70e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+![【小精灵问答】菜单折叠卡片](img/xjlkapian.png)
 
 Q：从4.0至5.0 UI为啥不进反退？
 
@@ -58,13 +57,13 @@ A：目前还处于研发阶段，功能不断迭代的同时如果还兼顾UI�
 
 # 截图展示
 
-![『LightCute 4.0』控制台预览图](https://upload-images.jianshu.io/upload_images/28850466-635ef59442e022d7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![『LightCute 4.0』控制台预览图](img/LightCute_4.0.0_new_group-control.png)
 
 --- 
 
 # 演示动图
 
-![『LightCute』演示动图](https://upload-images.jianshu.io/upload_images/28850466-6fadf0d1e798c7a3.gif?imageMogr2/auto-orient/strip)
+![LightCute演示动图](https://www.helloimg.com/images/2023/02/06/oZYDKc.gif)
 
 --- 
 
